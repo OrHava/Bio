@@ -3,10 +3,10 @@
 I'm a seasoned Software Engineer with a passion for building innovative solutions and pushing the boundaries of technology. With a strong foundation in Java, C, C++, and a knack for frontend and mobile development using React Native, Flutter, and Android Studio, I thrive in crafting robust applications across diverse platforms.
 
 ## Skills & Expertise
-- **Languages:** Java, C, C++, Dart, C#
+- **Languages:** Java, C, C++, Dart, C#, Java
 - **Frameworks:** Flutter
-- **Tools & Platforms:** Android Studio, Firebase
-- **Other:** [Add any other relevant skills here]
+- **Tools & Platforms:** Android Studio, Visual Studio Code
+- **Other:** Firebase 
 
 ## Industry-level Projects
 
