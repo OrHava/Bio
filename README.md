@@ -15,7 +15,7 @@ I'm a seasoned Software Engineer with a passion for building innovative solution
 ## Let's Connect 🌐
 
 I'm always open to collaboration and new opportunities. Feel free to connect with me on 
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />](www.linkedin.com/in/or-hava-b27ab4203)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />]([www.linkedin.com/in/or-hava-b27ab4203](https://www.linkedin.com/in/or-hava-b27ab4203))
 to discuss exciting projects or just to say hi! 😊
 
 
