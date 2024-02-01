@@ -1,6 +1,6 @@
 # Hello, I'm Or Hava 👋
 
-I'm a seasoned Software Engineer with a passion for building innovative solutions and pushing the boundaries of technology. With a strong foundation in Java, C, C++, and a knack for frontend and mobile development using ![Flutter](https://flutter.dev/images/favicon.png) Flutter, and ![Android Studio](https://developer.android.com/studio/images/studio-icon-preview.png) Android Studio, I thrive in crafting robust applications across diverse platforms.
+I'm a seasoned Software Engineer with a passion for building innovative solutions and pushing the boundaries of technology. With a strong foundation in Java, C, C++, and a knack for frontend and mobile development(https://icons8.com/icon/7I3BjCqe9rjG/flutter) Flutter, and ![Android Studio](https://developer.android.com/studio/images/studio-icon-preview.png) Android Studio, I thrive in crafting robust applications across diverse platforms.
 
 ## Skills & Expertise
 - **Languages:** Java, C, C++, Dart, C#
