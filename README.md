@@ -27,4 +27,4 @@ I'm a seasoned Software Engineer with a passion for building innovative solution
 
 ## Let's Connect 🌐
 
-I'm always open to collaboration and new opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) to discuss exciting projects or just to say hi! 😊
+I'm always open to collaboration and new opportunities. Feel free to connect with me on (https://www.linkedin.com/in/or-hava-b27ab4203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) to discuss exciting projects or just to say hi! 😊
