@@ -1,4 +1,4 @@
-# Hello, I'm <span style="color:blue">[Or Hava]</span> 👋
+# Hello, I'm <span style="color:blue">Or Hava</span> 👋
 
 I'm a seasoned Software Engineer with a passion for building innovative solutions and pushing the boundaries of technology. With a strong foundation in Java, C, C++, and a knack for frontend and mobile development using React Native, Flutter, and Android Studio, I thrive in crafting robust applications across diverse platforms.
 
@@ -27,4 +27,4 @@ I'm a seasoned Software Engineer with a passion for building innovative solution
 
 ## Let's Connect 🌐
 
-I'm always open to collaboration and new opportunities. Feel free to connect with me on (https://www.linkedin.com/in/or-hava-b27ab4203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) to discuss exciting projects or just to say hi! 😊
+I'm always open to collaboration and new opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/or-hava-b27ab4203?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) to discuss exciting projects or just to say hi! 😊
