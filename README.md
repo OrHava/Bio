@@ -35,7 +35,7 @@ to discuss exciting projects or just to say hi! 😊
 - **Technologies:** Flutter-Dart, Firebase
 - **Link:** [Appointments App Repository](https://github.com/OrHava/appointments)
 - **Gif:**
-- ![ezgif com-animated-gif-maker (1)](https://github.com/OrHava/OrHava/assets/116579286/412dd0d2-bc96-4d82-bd88-fc9a745b2954)
+
 
 ### Trivia Game App
 - **Description:** Guess the Flag is a trivia game with 20 levels of increasing difficulty, each with 10 or 20 questions. Players have 10 seconds to answer each question. The game offers multiplayer, fun facts, a leaderboard, and multiple languages. Players can also earn points to unlock avatars and can disable sound if desired.
