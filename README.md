@@ -30,6 +30,13 @@ to discuss exciting projects or just to say hi! 😊
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orhava&" alt="orhava" /></p>
 
+### CampusQuest AI
+- **Description:** Welcome to CampusQuest AI, your intelligent learning companion designed to revolutionize how students and lecturers interact with quizzes and learning materials. Our app is tailored to meet the academic needs of students, lecturers, and administrators by offering a dynamic, AI-driven platform that enhances the learning experience.
+- **Technologies:** Flutter-Dart, Firebase, Node.js Server
+- **Link:** [CampusQuest AI App Repository](https://github.com/OrHava/CampusQuest-AI)
+- **Gif:**
+<img src="https://github.com/user-attachments/assets/d4aab319-7f96-4c91-bc0a-6272539afb4d" alt="CampusQuest" width="300"/>
+
 ### Appointments App
 - **Description:** Discover the Appointments Manager – your all-in-one solution for seamless appointment scheduling. Businesses can showcase services, chat with clients, and customize their profiles, while clients effortlessly find, book, and communicate with service providers. Enjoy a streamlined experience with photos, easy scheduling, and versatile functionality.
 - **Technologies:** Flutter-Dart, Firebase
