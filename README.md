@@ -35,6 +35,7 @@ to discuss exciting projects or just to say hi! 😊
 - **Technologies:** Flutter-Dart, Firebase
 - **Link:** [Appointments App Repository](https://github.com/OrHava/appointments)
 - **Gif:**
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/d3682347-bb2c-40dd-802d-a4f8b4bae2be)
 
 
 ### Trivia Game App
