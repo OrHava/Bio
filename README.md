@@ -34,27 +34,20 @@ to discuss exciting projects or just to say hi! 😊
 - **Description:** Welcome to CampusQuest AI, your intelligent learning companion designed to revolutionize how students and lecturers interact with quizzes and learning materials. Our app is tailored to meet the academic needs of students, lecturers, and administrators by offering a dynamic, AI-driven platform that enhances the learning experience.
 - **Technologies:** Flutter-Dart, Firebase, Node.js Server
 - **Link:** [CampusQuest AI App Repository](https://github.com/OrHava/CampusQuest-AI)
-- **Gif:**
-<img src="https://github.com/user-attachments/assets/d4aab319-7f96-4c91-bc0a-6272539afb4d" alt="CampusQuest" width="300"/>
 
 ### Appointments App
 - **Description:** Discover the Appointments Manager – your all-in-one solution for seamless appointment scheduling. Businesses can showcase services, chat with clients, and customize their profiles, while clients effortlessly find, book, and communicate with service providers. Enjoy a streamlined experience with photos, easy scheduling, and versatile functionality.
 - **Technologies:** Flutter-Dart, Firebase
 - **Link:** [Appointments App Repository](https://github.com/OrHava/appointments)
-- **Gif:**
-<img src="https://github.com/user-attachments/assets/d3682347-bb2c-40dd-802d-a4f8b4bae2be" alt="Appointments App" width="300"/>
 
 ### Trivia Game App
 - **Description:** Guess the Flag is a trivia game with 20 levels of increasing difficulty, each with 10 or 20 questions. Players have 10 seconds to answer each question. The game offers multiplayer, fun facts, a leaderboard, and multiple languages. Players can also earn points to unlock avatars and can disable sound if desired.
 - **Technologies:** Android Studio-Java, Firebase
 - **Link:** [Trivia Game App Repository](https://github.com/OrHava/Trivia-Guess-The-Flag)
-- **Gif:**
--  ![ezgif com-animated-gif-maker](https://github.com/OrHava/OrHava/assets/116579286/dfeb19f5-8cef-4332-a3af-8f4a2e1c801c)
 
 ### Workout App
 - **Description:** Welcome to the Workout Planner app, your go-to platform for planning, tracking, and optimizing your fitness journey! Whether you're a seasoned gym enthusiast or just starting your fitness adventure, this app has everything you need to achieve your health and wellness goals.
 - **Technologies:** Flutter-dart, Firebase
 - **Link:** [Workout App Repository](https://github.com/OrHava/plan_workout)
-- **Gif:**
-- ![ezgif com-animated-gif-maker (2)](https://github.com/OrHava/OrHava/assets/116579286/e00770e5-adc9-4fea-ba11-b29b2ef39d9f)
+
 
